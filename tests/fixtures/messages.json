@@ -1,0 +1,639 @@
+[
+  {
+    "id": 5995044,
+    "body": "test with url http://www.google.com and preview image check",
+    "date_created": "2018-11-25T06:54:41",
+    "expire": "2018-11-27T21:54:41",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": "https://www.culinarydepotinc.com/content/images/thumbs/images500x500/0447711_cal-mil-3488-bell-cake-cover-round.jpg"
+  },
+  {
+    "id": 5989254,
+    "body": "gggg",
+    "date_created": "2018-11-24T06:55:15",
+    "expire": "2018-12-10T06:55:15",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5847864,
+    "body": "test",
+    "date_created": "2018-11-16T09:57:28",
+    "expire": "2018-12-16T09:57:28",
+    "read": true,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5843430,
+    "body": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, http://www.google.com a, venenatis vitae, justo.",
+    "date_created": "2018-11-15T17:33:27",
+    "expire": "2018-12-15T17:33:27",
+    "read": true,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5843406,
+    "body": "fsf",
+    "date_created": "2018-11-15T17:30:03",
+    "expire": "2018-12-15T17:30:03",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5843357,
+    "body": "dfdsdfsd",
+    "date_created": "2018-11-15T17:23:48",
+    "expire": "2018-12-15T17:23:48",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5843317,
+    "body": "aaaaaa",
+    "date_created": "2018-11-15T17:17:01",
+    "expire": "2018-12-15T17:17:01",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5843281,
+    "body": "aaaaa",
+    "date_created": "2018-11-15T17:09:40",
+    "expire": "2018-12-15T17:09:40",
+    "read": true,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5843278,
+    "body": "dsfsd",
+    "date_created": "2018-11-15T17:08:54",
+    "expire": "2018-12-15T17:08:54",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5843274,
+    "body": "fdf",
+    "date_created": "2018-11-15T17:07:56",
+    "expire": "2018-12-15T17:07:56",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5843165,
+    "body": "fffff",
+    "date_created": "2018-11-15T16:49:30",
+    "expire": "2018-12-15T16:49:30",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5843161,
+    "body": "ddd",
+    "date_created": "2018-11-15T16:48:53",
+    "expire": "2018-12-15T16:48:53",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5843160,
+    "body": "fdfdf",
+    "date_created": "2018-11-15T16:48:24",
+    "expire": "2018-12-15T16:48:24",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5843157,
+    "body": "NOTIFICATION1",
+    "date_created": "2018-11-15T16:48:16",
+    "expire": "2018-12-15T16:48:16",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5843143,
+    "body": "sdff",
+    "date_created": "2018-11-15T16:44:37",
+    "expire": "2018-12-15T16:44:37",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5843129,
+    "body": "palpo",
+    "date_created": "2018-11-15T16:42:09",
+    "expire": "2018-12-15T16:42:09",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5843127,
+    "body": "pulpo",
+    "date_created": "2018-11-15T16:41:55",
+    "expire": "2018-12-15T16:41:55",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5843126,
+    "body": "rrrr",
+    "date_created": "2018-11-15T16:41:42",
+    "expire": "2018-12-15T16:41:42",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5841885,
+    "body": "sdfgsdf",
+    "date_created": "2018-11-15T11:59:33",
+    "expire": "2018-12-15T11:59:33",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5841884,
+    "body": "erwerwe",
+    "date_created": "2018-11-15T11:59:25",
+    "expire": "2018-12-15T11:59:25",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5841839,
+    "body": "xxxxx",
+    "date_created": "2018-11-15T11:56:50",
+    "expire": "2018-12-15T11:56:50",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5841826,
+    "body": "fgdfg",
+    "date_created": "2018-11-15T11:56:28",
+    "expire": "2018-12-15T11:56:28",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5841742,
+    "body": "jjjj",
+    "date_created": "2018-11-15T11:48:36",
+    "expire": "2018-12-15T11:48:36",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5841740,
+    "body": "aaaa",
+    "date_created": "2018-11-15T11:47:57",
+    "expire": "2018-12-15T11:47:57",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5841726,
+    "body": "kj",
+    "date_created": "2018-11-15T11:45:38",
+    "expire": "2018-12-15T11:45:38",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5841719,
+    "body": "ytju",
+    "date_created": "2018-11-15T11:44:52",
+    "expire": "2018-12-15T11:44:52",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5841678,
+    "body": "fgfgf",
+    "date_created": "2018-11-15T11:33:28",
+    "expire": "2018-12-15T11:33:28",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5841670,
+    "body": "pup",
+    "date_created": "2018-11-15T11:32:01",
+    "expire": "2018-12-15T11:32:01",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5841667,
+    "body": "BGTEST",
+    "date_created": "2018-11-15T11:30:52",
+    "expire": "2018-12-15T11:30:52",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5841664,
+    "body": "nbgvf",
+    "date_created": "2018-11-15T11:30:19",
+    "expire": "2018-12-15T11:30:19",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5841661,
+    "body": "fghfgh",
+    "date_created": "2018-11-15T11:29:29",
+    "expire": "2018-12-15T11:29:29",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5841630,
+    "body": "ONE",
+    "date_created": "2018-11-15T11:17:28",
+    "expire": "2018-12-15T11:17:28",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5841615,
+    "body": "aSAas",
+    "date_created": "2018-11-15T11:12:12",
+    "expire": "2018-12-15T11:12:12",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5841597,
+    "body": "TUZ",
+    "date_created": "2018-11-15T11:07:46",
+    "expire": "2018-12-15T11:07:46",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5841589,
+    "body": "ghf",
+    "date_created": "2018-11-15T11:06:25",
+    "expire": "2018-12-15T11:06:25",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5841585,
+    "body": "xzcvzxcv",
+    "date_created": "2018-11-15T11:05:41",
+    "expire": "2018-12-15T11:05:41",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5841584,
+    "body": "CAP_1",
+    "date_created": "2018-11-15T11:05:25",
+    "expire": "2018-12-15T11:05:25",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5841581,
+    "body": "CAP",
+    "date_created": "2018-11-15T11:05:14",
+    "expire": "2018-12-15T11:05:14",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5841580,
+    "body": "xcvxcv",
+    "date_created": "2018-11-15T11:05:05",
+    "expire": "2018-12-15T11:05:05",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5841525,
+    "body": "fghfghfgh",
+    "date_created": "2018-11-15T10:53:21",
+    "expire": "2018-12-15T10:53:21",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5841517,
+    "body": "dfgdfgdf",
+    "date_created": "2018-11-15T10:52:11",
+    "expire": "2018-12-15T10:52:11",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5841509,
+    "body": "dfdff",
+    "date_created": "2018-11-15T10:50:29",
+    "expire": "2018-12-15T10:50:29",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5841505,
+    "body": "reter",
+    "date_created": "2018-11-15T10:49:26",
+    "expire": "2018-12-15T10:49:26",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5841494,
+    "body": "sdsdfdsfsd",
+    "date_created": "2018-11-15T10:48:27",
+    "expire": "2018-12-15T10:48:27",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5841455,
+    "body": "iiii",
+    "date_created": "2018-11-15T10:38:43",
+    "expire": "2018-12-15T10:38:43",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5834856,
+    "body": "hhh",
+    "date_created": "2018-11-14T10:08:30",
+    "expire": "2018-12-14T10:08:30",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5834805,
+    "body": "ffff",
+    "date_created": "2018-11-14T09:59:49",
+    "expire": "2018-12-14T09:59:49",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5834794,
+    "body": "dfgdsds",
+    "date_created": "2018-11-14T09:56:52",
+    "expire": "2018-12-14T09:56:52",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  },
+  {
+    "id": 5834785,
+    "body": "test",
+    "date_created": "2018-11-14T09:54:36",
+    "expire": "2018-12-14T09:54:36",
+    "read": false,
+    "channel": {
+      "id": 28,
+      "name": "Pushetta",
+      "image": "http://www.pushetta.com/uploads/channel_media/22f1c8c9803f4a6a9765a050e1e9f22f.png"
+    },
+    "preview_url": null
+  }
+]
